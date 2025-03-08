@@ -1,0 +1,6 @@
+EgyptTrip/
+│── index.html  (Home Page)
+│── tips.html   (Travel Tips Page)
+│── styles.css  (CSS File for Styling)
+│── images/     (Folder for images)
+│── README.md
